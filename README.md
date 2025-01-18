@@ -1,82 +1,85 @@
-# Hemocare
+Here’s the updated `README.md` with the requested changes and improvements:
+
+```markdown
+# Hemocare 🩸💉
 
 **Hemocare** is a PHP-based web project designed for efficient blood bank and donation management. It includes both user and admin interfaces to simplify blood donation processes and ensure transparency.
 
 ---
 
-## **Features**
+## **Features** ✨
 
 ### User Panel:
-- **Home Page**: View project overview and recent updates.
-- **About Us**: Information about the blood bank.
-- **Donate Blood**: Register as a donor.
-- **Need Blood**: Search for donors based on blood group and availability.
-- **Contact Us**: Connect with the administrators for assistance.
+- **Home Page** 🏠: View project overview and recent updates.
+- **About Us** 📖: Information about the blood bank.
+- **Donate Blood** 🩸: Register as a donor.
+- **Need Blood** 🔍: Search for donors based on blood group and availability.
+- **Contact Us** 📞: Connect with the administrators for assistance.
 
 ### Admin Panel:
-- Manage Donor Records.
-- Track Blood Donations.
-- Update Website Information.
-- Respond to Queries.
+- **Manage Donor Records** 🗂️
+- **Track Blood Donations** 📊
+- **Update Website Information** 📝
+- **Respond to Queries** 📬
 
 ---
 
-## **Screenshots**
+## **Screenshots** 📸
 
 ### User Panel:
-#### Home Page:
+#### Home Page 🏠:
 ![Home Page](Screenshots/homepage.png)
 
-#### Basic Information:
+#### Basic Information 📝:
 ![Basic Information](Screenshots/basic_info.png)
 
-#### About us:
-![About us](Screenshots/aboutus.png)
+#### About Us 📖:
+![About Us](Screenshots/aboutus.png)
 
-#### Need Blood:
+#### Need Blood 🔍:
 ![Need Blood](Screenshots/blood_request.png)
 
-#### Donor Registration:
+#### Donor Registration 📝:
 ![Donor Registration](Screenshots/register.png)
 
-#### Donor Info card:
+#### Donor Info Card 🏷️:
 ![Donor Info Card](Screenshots/donor_card.png)
 
-#### Contact Us:
+#### Contact Us 📞:
 ![Contact Us](Screenshots/contact_us.png)
 
 ### Admin Panel:
-
-#### Admin Login:
+#### Admin Login 🔑:
 ![Admin Login](Screenshots/login.png)
 
-#### Admin Dashboard:
+#### Admin Dashboard 📊:
 ![Admin Dashboard](Screenshots/admin_dashboard.png)
 
-#### Change Password:
+#### Change Password 🔐:
 ![Change Password](Screenshots/change_pass.png)
 
-#### Donor List:
+#### Donor List 🗂️:
 ![Donor List](Screenshots/donor_list.png)
 
-#### User Query:
+#### User Query 📨:
 ![User Query](Screenshots/user_query.png)
 
-#### Manage Pages:
+#### Manage Pages 🛠️:
 ![Manage Page](Screenshots/manage_page.png)
 
 ---
 
-## **Installation**
+## **Installation** 🔧
 
 ### Prerequisites:
-- XAMPP or WAMP installed.
+- **XAMPP** or **WAMP** installed.
 - A browser for accessing the application.
 
 ### Steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/PulkitAgrawal23/Hemocare.git
+   ```
 
 2. Navigate to the project folder:
    ```bash
@@ -84,45 +87,40 @@
    ```
 
 3. Set up the environment:
-
    - **For XAMPP**: Move the `Hemocare` folder to the `htdocs` directory in your XAMPP installation folder. You can access the application through `http://localhost/Hemocare` after starting the XAMPP server.
-
    - **For WAMP**: Move the `Hemocare` folder to the `www` directory in your WAMP installation folder. You can access the application through `http://localhost/Hemocare` after starting the WAMP server.
 
 4. Set up the database:
-
-   - Open phpMyAdmin through your browser (typically at `http://localhost/phpmyadmin`).
+   - Open **phpMyAdmin** through your browser (typically at `http://localhost/phpmyadmin`).
    - Create a new database named `hemocare`.
    - Import the `blood_bank_database.sql` file (provided in the repository) to set up the necessary tables and data.
 
 5. Configuration:
-
    - Open the `config.php` file in the project directory.
    - Update the database connection settings with your database credentials (e.g., username, password, and database name).
 
 6. Access the application:
-
-   - Open a browser and go to `http://localhost/BDMS` to use the system.
+   - Open a browser and go to `http://localhost/hemocare` to use the system.
 
 ---
 
-## **Usage**
+## **Usage** 📖
 
 ### User Panel:
-- **Donate Blood**: Users can register as donors by filling out the donation form. After registration, donors are added to the donor list.
-- **Need Blood**: Users can search for blood donors based on blood group and availability.
-- **Contact Us**: Users can contact administrators for support or inquiries.
+- **Donate Blood** 🩸: Users can register as donors by filling out the donation form. After registration, donors are added to the donor list.
+- **Need Blood** 🔍: Users can search for blood donors based on blood group and availability.
+- **Contact Us** 📞: Users can contact administrators for support or inquiries.
 
 ### Admin Panel:
-- **Admin Login**: Admins can log in to the system with credentials to access the admin dashboard.
-- **Dashboard**: Admins can view the total number of donations, donor details, and recent user activity.
-- **Manage Donors**: Admins can view, add, edit, or delete donor records.
-- **Manage Pages**: Admins can update static pages like About Us, Contact Us, etc.
-- **User Queries**: Admins can manage and respond to user queries submitted through the website.
+- **Admin Login** 🔑: Admins can log in to the system with credentials to access the admin dashboard.
+- **Dashboard** 📊: Admins can view the total number of donations, donor details, and recent user activity.
+- **Manage Donors** 🗂️: Admins can view, add, edit, or delete donor records.
+- **Manage Pages** 🛠️: Admins can update static pages like About Us, Contact Us, etc.
+- **User Queries** 📬: Admins can manage and respond to user queries submitted through the website.
 
 ---
 
-## **Contributing**
+## **Contributing** 🤝
 
 We welcome contributions to **Hemocare**! If you have suggestions, improvements, or bug fixes, feel free to fork the repository and create a pull request.
 
@@ -149,13 +147,14 @@ We welcome contributions to **Hemocare**! If you have suggestions, improvements,
 
 ---
 
-## **License**
+## **License** 🔒
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
+---
 
 ### Additional Notes:
-- Make sure the `hemocare.sql` file is included in your repository (if it's not already) for setting up the database.
+- Make sure the `blood_bank_database.sql` file is included in your repository (if it's not already) for setting up the database.
 - If there are any other specific instructions you'd like to add, feel free to modify the above sections.
 
 Let me know if you need further adjustments!
