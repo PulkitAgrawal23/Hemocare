@@ -19,9 +19,13 @@ The application is designed to be mobile-friendly and provides a user-friendly e
 Hemocare simplifies the entire process of blood donation management, improving donor engagement and enabling hospitals and clinics to access vital blood supply data more efficiently. Whether you're a blood donor or a healthcare professional, Hemocare ensures that the donation process is seamless, transparent, and efficient.
 
 **Technologies Used**
+
 **PHP:** The core technology powering the backend of the application.
+
 **MySQL:** Securely manages donor information, blood requests, and donation records.
+
 **HTML/CSS:** Ensures responsive and accessible front-end design.
+
 **JavaScript:** Enhances the user experience with interactive features.
 
 ## **Screenshots** 📸
