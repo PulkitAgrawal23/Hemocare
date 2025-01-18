@@ -28,6 +28,10 @@ Hemocare simplifies the entire process of blood donation management, improving d
 
 **JavaScript:** Enhances the user experience with interactive features.
 
+## GitHub Repository
+You can find the full source code, installation instructions, and further documentation for Hemocare on our GitHub repository:
+Hemocare GitHub Repository
+
 ## **Screenshots** 📸
 
 ### User Panel:
