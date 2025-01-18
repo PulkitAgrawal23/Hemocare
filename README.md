@@ -25,7 +25,7 @@
 
 ### User Panel:
 #### Home Page:
-<img src="screenshots/homepage.png" alt="Home Page" width="500"/>
+![Home Page](Screenshots/homepage.png)
 
 #### Need Blood:
 ![Need Blood](Screenshots/blood_request.png)
