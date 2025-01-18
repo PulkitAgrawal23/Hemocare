@@ -1,6 +1,3 @@
-Here’s the updated `README.md` with the requested changes and improvements:
-
-```markdown
 # Hemocare 🩸💉
 
 **Hemocare** is a PHP-based web project designed for efficient blood bank and donation management. It includes both user and admin interfaces to simplify blood donation processes and ensure transparency.
@@ -87,8 +84,8 @@ Here’s the updated `README.md` with the requested changes and improvements:
    ```
 
 3. Set up the environment:
-   - **For XAMPP**: Move the `Hemocare` folder to the `htdocs` directory in your XAMPP installation folder. You can access the application through `http://localhost/Hemocare` after starting the XAMPP server.
-   - **For WAMP**: Move the `Hemocare` folder to the `www` directory in your WAMP installation folder. You can access the application through `http://localhost/Hemocare` after starting the WAMP server.
+   - **For XAMPP**: Move the `Hemocare` folder to the `htdocs` directory in your XAMPP installation folder. You can access the application through `(http://localhost/hemocare-main)` after starting the XAMPP server.
+   - **For WAMP**: Move the `Hemocare` folder to the `www` directory in your WAMP installation folder. You can access the application through `(http://localhost/hemocare-main)` after starting the WAMP server.
 
 4. Set up the database:
    - Open **phpMyAdmin** through your browser (typically at `http://localhost/phpmyadmin`).
@@ -100,7 +97,7 @@ Here’s the updated `README.md` with the requested changes and improvements:
    - Update the database connection settings with your database credentials (e.g., username, password, and database name).
 
 6. Access the application:
-   - Open a browser and go to `http://localhost/hemocare` to use the system.
+   - Open a browser and go to `http://localhost/hemocare-main` to use the system.
 
 ---
 
