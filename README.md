@@ -164,12 +164,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - If there are any other specific instructions you'd like to add, feel free to modify the above sections.
 
 
-SEO Keywords Integrated:
-Blood bank management system
-PHP blood donation platform
-Donor registration system
-Blood donation request platform
-Admin dashboard for blood bank
-Blood donation management software
-MySQL blood bank database
-Blood donation app
+### SEO Keywords Integrated:
+## Blood bank management system
+## PHP blood donation platform
+## Donor registration system
+## Blood donation request platform
+## Admin dashboard for blood bank
+## Blood donation management software
+## MySQL blood bank database
+## Blood donation app
