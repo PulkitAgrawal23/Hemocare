@@ -25,20 +25,20 @@
 
 ### User Panel:
 #### Home Page:
-![Home Page](screenshots/homepage.png)
+<img src="screenshots/homepage.png" alt="Home Page" width="500"/>
 
 #### Need Blood:
-![Need Blood](screenshots/blood_request.png)
+![Need Blood](Screenshots/blood_request.png)
 
 #### Contact Us:
-![Contact Us](screenshots/contact_us.png)
+![Contact Us](Screenshots/contact_us.png)
 
 ### Admin Panel:
 #### Admin Dashboard:
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](Screenshots/admin_dashboard.png)
 
 #### Add Donor:
-![Add Donor](screenshots/add_donor.png)
+![Add Donor](Screenshots/add_donor.png)
 
 ---
 
