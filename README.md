@@ -162,14 +162,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Additional Notes:
 - Make sure the `blood_bank_database.sql` file is included in your repository (if it's not already) for setting up the database.
 - If there are any other specific instructions you'd like to add, feel free to modify the above sections.
-
-
-## SEO Keywords Integrated:
-## Blood bank management system
-## PHP blood donation platform
-## Donor registration system
-## Blood donation request platform
-## Admin dashboard for blood bank
-## Blood donation management software
-## MySQL blood bank database
-## Blood donation app
